@@ -409,11 +409,48 @@ Possible future enhancements include:
 
 # 👨‍💻 Author
 
-**Bhimratna Sardar**  
-B.Tech Computer Engineering
+<p align="center">
+  <img src="https://github.com/bhimratna.png" width="110" height="110" alt="Bhimratna Sardar">
+</p>
+
+<h2 align="center">Bhimratna Sardar</h2>
+
+<p align="center">
+  B.Tech Computer Engineering
+</p>
+
+<p align="center">
+  Interested in Python, Django, Artificial Intelligence,
+  Backend Development and Full-Stack Applications.
+</p>
 
 <p align="center">
   <a href="https://github.com/bhimratna">
     <img src="https://img.shields.io/badge/GitHub-Bhimratna-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+</p>
+
+---
+
+# ⭐ Support
+
+If you find this project useful or interesting:
+
+⭐ Star the repository  
+🐛 Report issues  
+💡 Suggest improvements  
+🤝 Contribute to the project
+
+---
+
+<p align="center">
+
+### Student Admission System
+
+<strong>Manage The Student Data.</strong>
+
+<br><br>
+
+Built with ❤️ using Python & Tkinter.
+
 </p>
